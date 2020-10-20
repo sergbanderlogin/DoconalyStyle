@@ -16,11 +16,14 @@ uploads/*.png
 /build
 
 # misc
+<<<<<<< HEAD
 */.idea
 /.idea
 .Idea
 /.Idea
 */Idea
+=======
+>>>>>>> RenderDynamicHomeScreen
 .idea
 .DS_Store
 .env
