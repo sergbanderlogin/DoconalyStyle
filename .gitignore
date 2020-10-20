@@ -16,6 +16,11 @@ uploads/*.png
 /build
 
 # misc
+*/.idea
+/.idea
+.Idea
+/.Idea
+*/Idea
 .idea
 .DS_Store
 .env
