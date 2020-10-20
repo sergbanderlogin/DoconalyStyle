@@ -82,7 +82,7 @@ Feel free to take a look at the course preview and enroll if it is along with yo
    2. make render async
    3. fetch products from '/api/products' in render()
    4. make router() async and call await HomeScreen.render()
-   5. use cors on backend
+   5. use cors on backend npm install cors
    6. check the result
 8. Add Webpack
    1. cd frontend
