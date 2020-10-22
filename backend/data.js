@@ -7,8 +7,8 @@ export default {
             image: '/images/product-1.jpg',
             price: 72,
             brand: 'Hiskywin',
-            rating: 4.7,
-            numReviews: 10,
+            rating: 5.7,
+            numReviews: 21,
             countInStock: 7,
         },
         {
@@ -19,7 +19,7 @@ export default {
             price: 88,
             brand: 'Nice',
             rating: 4.8,
-            numReviews: 10,
+            numReviews: 36,
             countInStock: 7,
         },
         {
@@ -30,7 +30,7 @@ export default {
             price: 128,
             brand: 'Adidas',
             rating: 3.5,
-            numReviews: 10,
+            numReviews: 18,
             countInStock: 7,
         },
         {
@@ -41,7 +41,7 @@ export default {
             price: 172,
             brand: 'Reebok',
             rating: 4.2,
-            numReviews: 10,
+            numReviews: 24,
             countInStock: 7,
         },
         {
@@ -52,7 +52,7 @@ export default {
             price: 88,
             brand: 'Puma',
             rating: 4.9,
-            numReviews: 10,
+            numReviews: 72,
             countInStock: 7,
         },
         {
@@ -63,7 +63,7 @@ export default {
             price: 126,
             brand: 'Salamandra',
             rating: 3.5,
-            numReviews: 10,
+            numReviews: 7,
             countInStock: 7,
         },
         {
@@ -74,7 +74,7 @@ export default {
             price: 196,
             brand: 'Dnipryanka',
             rating: 4.8,
-            numReviews: 10,
+            numReviews: 60,
             countInStock: 7,
         },
     ]
