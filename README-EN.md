@@ -82,7 +82,7 @@ Feel free to take a look at the course preview and enroll if it is along with yo
    2. make render async
    3. fetch products from '/api/products' in render()
    4. make router() async and call await HomeScreen.render()
-   5. use cors on backend npm install cors
+   5. use cors on backend
    6. check the result
 8. Add Webpack
    1. cd frontend
@@ -97,7 +97,7 @@ Feel free to take a look at the course preview and enroll if it is along with yo
    10. npm install axios
    11. change fetch to axios in HomeScreen
 9. Install Babel For ES6 Syntax
-   1. npm install -D @babel/core @babel/cli @babel/node @babel/preset-env
+   1. npm install -D babel core, cli, node, preset-env
    2. Create .babelrc and set presets to @babel/preset-env
    3. npm install -D nodemon
    4. set start: nodemon --watch backend --exec babel-node backend/server.js
@@ -109,15 +109,16 @@ Feel free to take a look at the course preview and enroll if it is along with yo
     3. create .eslintrc and set module.exports for env to node
     4. Set VSCode setting for editor.codeActionsOnSave source.fixAll.eslint to true
     5. check result for linting error
-    6. npm install eslint-config-airbnb-base and eslint-plugin-import
+    6. npm install -D eslint-config-airbnb-base eslint-plugin-import
     7. set extends to airbnb-base
     8. set parserOptions to ecmaVersion 11 and sourceType to module
     9. set rules for no-console to 0 to ignore linting error
 11. Install VSCode Extension
     1. JavaScript (ES6) code snippets
     2. ES7 React/Redux/GraphQL/React-Native snippets
-    3. Prettier - Code formatter
+    3. Prettier - Code formatter (npm install -D eslint-config-prettier)
     4. HTML&LESS grammar injections
+    5. CSS Peek
 12. Create Rating Component
     1. create components/Rating.js
     2. link to fontawesome.css in index.html
